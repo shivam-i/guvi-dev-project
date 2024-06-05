@@ -57,6 +57,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['update'])) {
     }
 }
 
+
+// **We can also fetch the profile data through SQL by using the code below.**
+
+
 // if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['profile'])) {
 
 //     header('Access-Control-Allow-Origin: *');
