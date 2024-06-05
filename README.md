@@ -3,7 +3,10 @@
 DEMO VIDEO:
 
 
-https://github.com/shivam-i/guvi-dev-project/assets/124266670/564414ec-c3ec-4ced-ab07-06eb3acf699f
+https://github.com/shivam-i/guvi-dev-project/assets/124266670/31da2fe3-371b-4379-abb2-1b5abd32f406
+
+
+
 
 
 
