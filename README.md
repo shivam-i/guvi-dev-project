@@ -1,7 +1,11 @@
 # guvi-dev-project
 
 DEMO VIDEO:
-https://github.com/shivam-i/guvi-dev-project/assets/124266670/31da2fe3-371b-4379-abb2-1b5abd32f406
+
+
+https://github.com/shivam-i/guvi-dev-project/assets/124266670/7c45f533-0661-442a-b4fb-1975014b8e0a
+
+
 
 ## STEP1: Registration Page
 * 👇The screenshot of successfull registration. After this the user is redirected to the login page.
